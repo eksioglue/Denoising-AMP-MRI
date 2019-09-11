@@ -1,4 +1,4 @@
-Toolbox for BM3D-AMP-MRI algorithm; version 1.0 (August, 2018)
+Toolbox for Denoising-AMP-MRI algorithm; version 1.0 (August, 2018)
 
 A toolbox for MRI reconstruction based on Denoising-AMP
 
@@ -29,5 +29,4 @@ REFERENCES:
 
 [2] E.M. Eksioglu, "Decoupled Algorithm for MRI Reconstruction Using Nonlocal Block Matching Model: BM3D-MRI", Journal of Mathematical Imaging and Vision, vol. 56, no. 3, pp. 430-440, November 2016.
 
-[3] K. Dabov, A. Foi, V. Katkovnik and K. Egiazarian, "Image Denoising by Sparse 3-D Transform-Domain Collaborative Filtering," in IEEE Transactions on Image Processing, vol. 16, no. 8, pp. 2080-2095, Aug. 2007.
-    
+[3] K. Dabov, A. Foi, V. Katkovnik and K. Egiazarian, "Image Denoising by Sparse 3-D Transform-Domain Collaborative Filtering," in IEEE Transactions on Image Processing, vol. 16, no. 8, pp. 2080-2095, Aug. 2007. 
